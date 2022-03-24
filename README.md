@@ -6,5 +6,5 @@ Projeto front-end de interação com API para filtrar dados.
 
 - Primeira você precisa clonar este repositório
 - O servidor deve ser rodado de forma local, disponibilizado no link (https://github.com/fidelizou-me/frontend-test) 
-  - Para rodar o ambiente é necessário utilizar o seguinte comando no terminal: 
+- Para rodar o ambiente é necessário utilizar o seguinte comando no terminal: 
     > `node server.js`
